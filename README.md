@@ -57,3 +57,4 @@ To build docker image, run `make dc.image`.
 ## CI/CD
 
 The CI/CD runs in [Github Actions](https://github.com/features/actions). See the [CI workflow spec](.github/workflows/main.yml) and the [CD workflow spec](.github/workflows/deployment.yml) for more details.
+![螢幕擷取畫面 2024-03-12 172434](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/122eea20-4012-431b-abea-902f7220e276)
