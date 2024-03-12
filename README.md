@@ -1,5 +1,5 @@
 # NTHU-Distributed-System
-
+![螢幕擷取畫面 2024-03-12 172434](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/122eea20-4012-431b-abea-902f7220e276)
 The repository includes microservices for the NTHU Distributed System course lab. The goal of this project is to **introduce a production, realworld microservices backend mono-repo architecture** for teaching purpose.
 
 Before going through the following parts, make sure your Docker is running since we are generating/testing/building code inside a Docker container to prevent dependencies from conflicting/missing on your host machine.
@@ -57,4 +57,3 @@ To build docker image, run `make dc.image`.
 ## CI/CD
 
 The CI/CD runs in [Github Actions](https://github.com/features/actions). See the [CI workflow spec](.github/workflows/main.yml) and the [CD workflow spec](.github/workflows/deployment.yml) for more details.
-![螢幕擷取畫面 2024-03-12 172434](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/122eea20-4012-431b-abea-902f7220e276)
