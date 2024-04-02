@@ -93,7 +93,7 @@ func NewPrometheusServiceMeter(ctx context.Context, conf *PrometheusServiceMeter
 	// TODO
 	requestErrorCounter, err := meter.SyncInt64().Counter("error_request", instrument.WithDescription("count number of error requests"))
 	if err != nil {
-		logger.Fatal("failed to create error reqeusts counter", zap.Error(err))
+		logger.Fatal("failed to create error requests counter", zap.Error(err))
 	}
 
 	responseTimeHistogram, err := meter.SyncInt64().Histogram("response_time", instrument.WithDescription("measure response time"))
