@@ -1,3 +1,10 @@
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/ab525bf6-3770-4cfb-84f2-690a29fa22eb)
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/9343dfdd-36e7-40d3-8c7e-833767ccbd18)
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/9ccb39b4-afcf-417a-8ac1-c45f62311e9c)
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/91d95a3d-6868-4dc3-bf7f-52ca4e881a84)
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/380f926e-d380-4bf9-864b-ab00cd604b21)
+![image](https://github.com/zithroo/NTHU-Distributed-System/assets/74980866/e124b000-91ff-4005-9576-882ab0ddf544)
+
 # NTHU-Distributed-System
 
 The repository includes microservices for the NTHU Distributed System course lab. The goal of this project is to **introduce a production, realworld microservices backend mono-repo architecture** for teaching purpose.
